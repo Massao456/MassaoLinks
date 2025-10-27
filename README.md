@@ -30,7 +30,6 @@ O projeto é totalmente responsivo, oferecendo uma experiência otimizada para:
 - 📱 Smartphones (portrait e landscape)
 - 📱 Tablets
 - 💻 Desktops
-- 💻 Telas grandes
 
 ## 🎨 Características de Design
 
